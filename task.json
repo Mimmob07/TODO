@@ -1,0 +1,19 @@
+{
+    "todo_list": [
+        {
+            "id": 1,
+            "task": "Buy groceries",
+            "status": "incomplete"
+        },
+        {
+            "id": 2,
+            "task": "Complete programming project",
+            "status": "incomplete"
+        },
+        {
+            "id": 3,
+            "task": "Book a doctor's appointment",
+            "status": "incomplete"
+        }
+    ]
+}
